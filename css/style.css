@@ -911,7 +911,7 @@ html {
     background-color: #000;
 }
 
-@media (min-width: 641px) and (max-width: 1200px) {
+@media (min-width: 641px) and (max-width: 1199px) {
     .header {
         background-image: url(../images/banner-bg-tablet.jpg);
     }
@@ -1031,7 +1031,7 @@ html {
     }
 }
 
-@media (max-width: 765px) {
+@media (max-width: 768px) {
     .products {
         justify-content: center;
     }
